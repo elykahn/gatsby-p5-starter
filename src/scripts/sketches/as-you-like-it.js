@@ -40,7 +40,7 @@ export default function sketch(p) {
   var stepSize = 5.0
   
   var font = 'Georgia'
-  var letters = 'All the world\'s a stage, and all the men and women merely players. They have their exits and their entrances.'
+  var letters = 'Don\'t try to be different. Own the fact that you already are. Be fierce with your time, but generous with your heart. Presence, not Presents. The biggest wall you\'ve gotta climb is the one you build in your mind, you don\'t need a hammer to knock it down, just the will to act. Find awe, let it SHAKE you, MELT you, LIFT you, then share it. Have a strategy, but leave room for serendipity. The best things in life are rarely planned. Life is a story. If you wouldn\'t read the one you\'re telling, write a different ending.'
   var fontSizeMin = 3
   var angleDistortion = 0.0
   
